@@ -1,0 +1,9 @@
+.git
+.env
+*.db*
+*.sqlite3*
+*.gguf
+*.part
+data
+shtab
+coverage.out

@@ -1,7 +1,10 @@
 .env
-*.sqlite3
 *.db
-__pycache__/
-.venv/
+*.db-*
+*.sqlite3
+*.sqlite3-*
+*.gguf
+*.part
+shtab
+coverage.out
 /data/
-assets/images/*.png
